@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-Twitter Sentiment Analysis Using TF-IDF Approach: <br>
+Twitter Sentiment Analysis using TF-IDF approach: <br>
 
 1- Data visualization and preprocessing <br>
 2- Data cleaning <br>
